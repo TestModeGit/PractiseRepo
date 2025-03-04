@@ -11,8 +11,9 @@ int add(int x, int y)
 
 int main()
 {
-	std::cout<<"Hello World - First Program Fourth Commit\n";
+	std::cout<<"Hello World - First Program Fifth Commit\n";
 	std::cout<<"The Sum of 1 + 3 = " << add(1,3) << "\n";
 	std::cout<<"The Sum of 8 + 9 = " << add(8,9) << "\n";
+	std::cout<<"Program Finally Finished!\n";
 	return 0;
 }
