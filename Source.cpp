@@ -6,6 +6,7 @@
 
 int main()
 {
-	std::cout<<"Hello World - First Program Initial Commit\n";
+	std::cout<<"Hello World - First Program Second Commit\n";
+	std::cout<<"The Sum of 1 + 3 = 4\n";
 	return 0;
 }
